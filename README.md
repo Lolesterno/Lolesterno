@@ -8,6 +8,8 @@ Hello Everyone, I'm Nicolas Cuadros, a Passionate developer form Bogota - Colomb
 🔭 I’m currently working on MichaelPage International Group - Client: El Tiempo Casa Editorial 🇨🇴
 <a href="https://www.eltiempo.com/" target="_blank">Link to the Principal Page 📰</a>
 
+# My last practice project in working... Paint.js -> A practice Javascript project without libraries, only Vanilla Javascript
+📖 -> Repository 👉 <a href="https://github.com/Lolesterno/js100/tree/main/2-paint">Click Here</a> 👈
 
 ## Español 🇨🇴
 ## Hola a todos 🙌
