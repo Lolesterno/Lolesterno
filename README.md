@@ -6,7 +6,7 @@ Hello Everyone, I'm Nicolas Cuadros, a Passionate developer form Bogota - Colomb
 ## WELCOME TO MY GITHUB
 
 🔭 I’m currently working on MichaelPage International Group - Client: El Tiempo Casa Editorial 🇨🇴
-<a href="https://www.eltiempo.com/">Link to the Principal Page 📰</a>
+<a href="https://www.eltiempo.com/" target="_blank">Link to the Principal Page 📰</a>
 
 
 ## Español 🇨🇴
