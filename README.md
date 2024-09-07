@@ -18,6 +18,13 @@ Repository 👉 <a href="https://github.com/Lolesterno/js100/tree/main/2-paint">
 Hola a todos, Soy Nicolas Cuadros, desarrollador apasionado de Bogota -  Colombia 🇨🇴. Soy desarrollador Web de PHP / Javascript SemiSenior, me encanta crear codigo y crear nuevas caracteristicas en proyectos existentes o nuevos proyectos en mi vida
 
 ## BIENVENIDOS A MI GITHUB
+
+🔭 Actualmente trabajo para MichaelPage International Group - Cliente: El Tiempo Casa Editorial 🇨🇴
+<a href="https://www.eltiempo.com/" target="_blank">Ir a la Pagina principal 📰</a>
+
+📖 Mi ultimo proyecto practico... Paint.js -> Una practica con Javascript Nativo, cero librerias
+<br/>
+Repositorio 👉 <a href="https://github.com/Lolesterno/js100/tree/main/2-paint">Click Here</a> 👈
 <!--
 **Lolesterno/Lolesterno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
