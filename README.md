@@ -31,6 +31,15 @@ Experiencia laboral 🚀
   *Url: <a href="https://nuplin.com">Entrar a Nuplin</a>*
 
 - 🌏 Michaelpage Internacional -> Desarrollador Senior PHP encargado del cliente El tiempo Casa Editorial, soy uno de los desarrolladores encargados de manejar, crear, manipular y desarrollar nuevos sitios, campañas, y correcion de errores que se envuentran en todo el ambiente de ElTiempo, ademas de ello, manipulacion y correccion de errores en la App ofivial de Eltiempo, soporte tecnico a Clientes de la suscripcion y mejoras en las entregas de respuestas de consumo API
+  *Url: <a href="https://eltiempo.com">El Tiempo Periodico Digital</a>*
+
+  *Url App: <a href="https://play.google.com/store/apps/details?id=com.kubo.web">El tiempo App </a>*
+
+- 👨‍💻 Solventa Fintech: Desarrollador de Software PHP senior encargado de integraciones de seguridad y automatizacion de procesos de desembolsos de creditos a diferentes bancos dependiendo de la cuenta destino en donde el cliente escogio el debito del credito, ademss de implementaciones de bioseguridad como validacion de fedula de ciudadania, validacion facial y reconocimiento biometrico para mayor seguridad a la hora de solicitar el credito
+
+  *Url: <a href="https://solventa.co/">Solicitud en Solventa</a>*
+
+- 
 <!--
 **Lolesterno/Lolesterno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
