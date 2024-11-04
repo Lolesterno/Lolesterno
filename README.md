@@ -25,6 +25,12 @@ Hola a todos, Soy Nicolas Cuadros, desarrollador apasionado de Bogota -  Colombi
 📖 Mi ultimo proyecto practico... Paint.js -> Una practica con Javascript Nativo, cero librerias
 <br/>
 Repositorio 👉 <a href="https://github.com/Lolesterno/js100/tree/main/2-paint">Click Here</a> 👈
+
+Experiencia laboral 🚀
+- 📺 TeleVVD -> Coordinador de desarrollo encargado de el desarrollo de soluciones empresariales para pequeños y medianos ISP a nivel nacional e internacional (Ecuador, Peru) en integracion con la plataforma de IPTV Nuplin
+  *Url: <a href="https://nuplin.com">Entrar a Nuplin</a>*
+
+- 🌏 Michaelpage Internacional -> Desarrollador Senior PHP encargado del cliente El tiempo Casa Editorial, soy uno de los desarrolladores encargados de manejar, crear, manipular y desarrollar nuevos sitios, campañas, y correcion de errores que se envuentran en todo el ambiente de ElTiempo, ademas de ello, manipulacion y correccion de errores en la App ofivial de Eltiempo, soporte tecnico a Clientes de la suscripcion y mejoras en las entregas de respuestas de consumo API
 <!--
 **Lolesterno/Lolesterno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
