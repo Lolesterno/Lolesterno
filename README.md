@@ -1,4 +1,4 @@
-no## English 🇺🇸
+## English 🇺🇸
 ## Hi there 👋
 # 💫 About Me:
 Hello Everyone, I'm Nicolas Cuadros, a Passionate developer form Bogota - Colombia 🇨🇴. Im PHP/ Javascript Semisenior web developer, i love codding and create new features or proyects in my life
